@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ssash\source\repos\FirstLesson\FirstLesson\main.cpp(61,19): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  FirstLesson.vcxproj -> C:\Users\ssash\source\repos\FirstLesson\x64\Debug\FirstLesson.exe
